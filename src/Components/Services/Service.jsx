@@ -3,7 +3,6 @@ import { FaBookBookmark } from "react-icons/fa6";
 import { BsCameraVideoFill } from "react-icons/bs";
 import { FaCalendarWeek } from "react-icons/fa6";
 import ServiceCard from "./ServiceCard";
-import Logo from '../../Assets/logo.png'
 export default function Service() {
   return (
     <div className=" py-5 mb-44 px-6  text-center ">

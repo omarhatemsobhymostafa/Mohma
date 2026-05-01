@@ -1,6 +1,5 @@
 
 import './App.css';
-import FirstPartHaml from './Components/Haml/FirstPartHaml';
 import Home from './Components/Home';
 import Navbar from './Components/Nav';
 import { Route, Routes } from 'react-router-dom';

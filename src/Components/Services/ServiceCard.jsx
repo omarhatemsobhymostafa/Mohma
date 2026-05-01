@@ -1,7 +1,4 @@
 import React from "react";
-import { FaBookBookmark } from "react-icons/fa6";
-import { BsCameraVideoFill } from "react-icons/bs";
-import { FaCalendarWeek } from "react-icons/fa6";
 export default function ServiceCard(props) {
   return (
     <div className=" items-center gap-3 md:px-16 px-0 border-b-[#F28482] border-4 ">

@@ -23,30 +23,30 @@ export default function Nav() {
         <Link to="/HamlPart1" className="bg-white rounded-xl px-4 py-2 border-2 hover:scale-110 hover:translate-y-[-3px] transition-all ">
           الحمل
         </Link>
-        <a href="#" className="bg-white rounded-xl px-4 py-2  text-center border-2 hover:scale-110 hover:translate-y-[-3px] transition-all ">
+        <button type="button" className="bg-white rounded-xl px-4 py-2  text-center border-2 hover:scale-110 hover:translate-y-[-3px] transition-all ">
           النمو التطور
           <span className="bg-[#75b8b2] mx-3 text-white rounded-md px-3"> قريبا   </span>
-        </a>
-        <a href="#" className="bg-white rounded-xl px-4 py-2 border-2 hover:scale-110 hover:translate-y-[-3px] transition-all ">
+        </button>
+        <button type="button" className="bg-white rounded-xl px-4 py-2 border-2 hover:scale-110 hover:translate-y-[-3px] transition-all ">
           التربية الاجابية
           <span className="bg-[#75b8b2] mx-3 text-white rounded-md px-3"> قريبا   </span>
 
-        </a>
-        <a href="#" className="bg-white rounded-xl px-4 py-2 border-2 hover:scale-110 hover:translate-y-[-3px] transition-all ">
+        </button>
+        <button type="button" className="bg-white rounded-xl px-4 py-2 border-2 hover:scale-110 hover:translate-y-[-3px] transition-all ">
           كورسات
           <span className="bg-[#75b8b2] mx-3 text-white rounded-md px-3"> قريبا   </span>
 
-        </a>
-        <a href="#" className="bg-white rounded-xl px-4 py-2 border-2 hover:scale-110 hover:translate-y-[-3px] transition-all ">
+        </button>
+        <button type="button" className="bg-white rounded-xl px-4 py-2 border-2 hover:scale-110 hover:translate-y-[-3px] transition-all ">
           ماذا تشتري
           <span className="bg-[#75b8b2] mx-3 text-white rounded-md px-3"> قريبا   </span>
 
-        </a>
-        <a href="#" className="bg-white rounded-xl px-4 py-2 border-2 hover:scale-110 hover:translate-y-[-3px] transition-all ">
+        </button>
+        <button type="button" className="bg-white rounded-xl px-4 py-2 border-2 hover:scale-110 hover:translate-y-[-3px] transition-all ">
           خدمات
           <span className="bg-[#75b8b2] mx-3 text-white rounded-md px-3"> قريبا   </span>
 
-        </a>
+        </button>
 
       </div>
     </nav>
