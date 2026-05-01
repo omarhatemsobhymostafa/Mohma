@@ -1,4 +1,4 @@
-﻿import react from 'reacm';
+﻿import react from 'reac';
 import { Link } from "react-router-dom";
 import weeksData from "../../weeks.jsx";
 
