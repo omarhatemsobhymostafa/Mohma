@@ -1,4 +1,4 @@
-﻿import React from "react";
+﻿import react from 'react'
 import { useParams } from "react-router-dom";
 import FirstPartHaml from "./FirstPartHaml";
 import weeksData from "../../weeks.jsx";
