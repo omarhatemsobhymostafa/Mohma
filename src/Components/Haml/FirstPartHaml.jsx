@@ -1,4 +1,4 @@
-﻿import react from 'reac';
+﻿import react from 'react';
 import { Link } from "react-router-dom";
 import weeksData from "../../weeks.jsx";
 
